@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "hyosan-chat": "file:../hyosan-chat/hyosan-chat-0.2.0.tgz",
+    "hyosan-chat": "^0.2.0",
     "vue": "^3.5.13"
   },
   "devDependencies": {
