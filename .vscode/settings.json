@@ -1,0 +1,5 @@
+{
+  "html.customData": [
+    "./node_modules/hyosan-chat/dist/cem-types/vscode.html-custom-data.json"
+  ]
+}
